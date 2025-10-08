@@ -16,7 +16,7 @@ from joblib import dump
 
 # ---- 1) Load data ------------------------------------------------------------
 # Public raw CSV with 768 rows, 8 features + target (last column)
-DATA_URL = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
+DATA_URL = "https://raw.githubusercontent.com/enuguru/GenAI/refs/heads/main/neural-networks/ann/pima-indians-diabetes.csv"
 
 # Column names (per dataset description)
 COLUMNS = [
